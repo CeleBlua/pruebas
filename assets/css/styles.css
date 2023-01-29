@@ -1,5 +1,13 @@
-*{
-    width: 80%;
-    margin:auto;
-    padding: 0;
+* {
+  width: 80%;
+  margin: auto;
+  padding: 2%;
+}
+
+.titulo {
+  color: rgb(164, 23, 16);
+}
+
+.fondo {
+   background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fes%2Ffotos%2Fcachorros-labrador-amarillos&psig=AOvVaw0YLyfseBUUyibAAjvDESyk&ust=1675099790653000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPjmpJGn7fwCFQAAAAAdAAAAABAJ);
 }
