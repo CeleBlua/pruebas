@@ -1,13 +1,17 @@
 * {
-  width: 80%;
+  width: 90%;
   margin: auto;
-  padding: 2%;
+  padding: 0.25%;
 }
 
 .titulo {
-  color: rgb(164, 23, 16);
+  color: rgb(46, 16, 164);
 }
 
 .fondo {
-   background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fes%2Ffotos%2Fcachorros-labrador-amarillos&psig=AOvVaw0YLyfseBUUyibAAjvDESyk&ust=1675099790653000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPjmpJGn7fwCFQAAAAAdAAAAABAJ);
+  background-image: url(https://www.shutterstock.com/image-photo/portrait-cute-black-labrador-retriever-600w-1870070956.jpg);
+}
+
+.card{
+  width: 18rem;
 }
